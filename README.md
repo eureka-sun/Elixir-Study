@@ -1,7 +1,10 @@
 <h1 align="center">
     <img alt="Elixir Study" src="elixir.png" width="100px" />
-    <p>Elixir-Study</p>
 </h1>
+
+<h4 align="center">
+  💧 Elixir Study
+</h4>
 
 <p align="center">
 <img alt="Issues" src="https://img.shields.io/github/issues/eureka-sun/Elixir-Study">
@@ -55,6 +58,10 @@ No [github](https://github.com/nvie/gitflow/wiki/Installationhttps://github.com/
 - Para gerar a versao: git flow release start 1.0.0
 - Para finalizar a versao: git flow release finish 1.0.0
 - Para enviar o github: git push origin master
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
