@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Elixir Study" src="assets/elixir.png" width="100px" />
+    <img alt="Elixir Study" src="elixir.png" width="100px" />
     <p>Elixir-Study</p>
 </h1>
 
