@@ -29,7 +29,7 @@ Esse projeto vai utilizar as seguintes tecnologias:
 - [Elixir](https://elixir-lang.org//)
 - [Phoenix](https://www.phoenixframework.org/)
 
-## Conteúdo
+## 📄 Conteúdo
 Para estudo será utilizado como padrão o [Elixir School](https://elixirschool.com/pt/) mas também é recomendado estudar
 por materiais complementares como:
 
