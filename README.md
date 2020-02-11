@@ -32,7 +32,7 @@ por materiais complementares como:
 
 - [Elixir Doc](https://elixir-lang.org/getting-started/introduction.html)
 - [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)
-- [Phoenix Doc] (https://hexdocs.pm/phoenix/Phoenix.html)
+- [Phoenix Doc](https://hexdocs.pm/phoenix/Phoenix.html)
 
 
 ## 🔖 Regras
