@@ -58,4 +58,4 @@ No [github](https://github.com/nvie/gitflow/wiki/Installationhttps://github.com/
 
 ---
 
-Feito com ♥ by Eureka Sun
+Feito com ♥ by Eureka.Sun
