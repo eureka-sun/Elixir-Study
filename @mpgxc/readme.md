@@ -1,7 +1,7 @@
 | Conteúdo                                | Status |
 | --------------------------------------- | ------ |
 | [Primeiro Contato](Introdução/main.exs) | ✔️     |
-| Básico                                  | ❌     |
+| Básico                                  | ⌛     |
 | Coleções                                | ❌     |
 | Enum                                    | ❌     |
 | Pattern Matching                        | ❌     |
