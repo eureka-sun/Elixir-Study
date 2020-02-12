@@ -1,6 +1,18 @@
-| Exemplo   | Valor do exemplo |
-| --------- | ---------------- |
-| Exemplo 1 | R\$ 10           |
-| Exemplo 2 | R\$ 8            |
-| Exemplo 3 | R\$ 7            |
-| Exemplo 4 | R\$ 8            |
+| Conteúdo                 | Status |
+| ------------------------ | ------ |
+| Primeiro Contato         | ✔️     |
+| Básico                   | ❌     |
+| Coleções                 | ❌     |
+| Enum                     | ❌     |
+| Pattern Matching         | ❌     |
+| Estruturas de Controle   | ❌     |
+| Funções                  | ❌     |
+| Operador Pipe            | ❌     |
+| Mix                      | ❌     |
+| Documentação             | ❌     |
+| Testando                 | ❌     |
+| Comprehensions           | ❌     |
+| Strings                  | ❌     |
+| Data e Tempo             | ❌     |
+| Tarefas Mix Customizadas | ❌     |
+| IEx Helpers              | ❌     |
