@@ -44,9 +44,9 @@ por materiais complementares como:
 - [Phoenix a Web Framework for the New Web](https://www.youtube.com/watch?v=bk3icU8iIto)
 
 ### Assuntos Extras
--[Raciocinando sobre sistemas distribuídos -](youtube.com/watch?v=sDA44slJbl4&t=1852s)
--[https://www.youtube.com/watch?v=vieUKbgryCU](Elug-SP#19 - Desmistificando mal-entendidos por Andrew Rosa)
--[https://www.youtube.com/watch?v=FdvvIKggzhQ](Reescrevendo Software Crítico em Elixir)
+- [Raciocinando sobre sistemas distribuídos](youtube.com/watch?v=sDA44slJbl4&t=1852s)
+- [https://www.youtube.com/watch?v=vieUKbgryCU](Elug-SP#19 - Desmistificando mal-entendidos por Andrew Rosa)
+- [https://www.youtube.com/watch?v=FdvvIKggzhQ](Reescrevendo Software Crítico em Elixir)
 
 
 ## 🔖 Regras
