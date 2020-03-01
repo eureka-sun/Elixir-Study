@@ -33,9 +33,20 @@ Esse projeto vai utilizar as seguintes tecnologias:
 Para estudo será utilizado como padrão o [Elixir School](https://elixirschool.com/pt/) mas também é recomendado estudar
 por materiais complementares como:
 
+### Elixir
 - [Elixir Doc](https://elixir-lang.org/getting-started/introduction.html)
 - [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)
+- [Tutoriais Elixir do Jose Valim](https://www.twitch.tv/josevalim/videos)
+
+#### Phoenix
 - [Phoenix Doc](https://hexdocs.pm/phoenix/Phoenix.html)
+- [Build a JSON API with Elixir] (https://www.youtube.com/watch?v=X9AggnaEXrM)
+- [Phoenix a Web Framework for the New Web](https://www.youtube.com/watch?v=bk3icU8iIto)
+
+### Assuntos Extras
+-[Raciocinando sobre sistemas distribuídos -](youtube.com/watch?v=sDA44slJbl4&t=1852s)
+-[https://www.youtube.com/watch?v=vieUKbgryCU](Elug-SP#19 - Desmistificando mal-entendidos por Andrew Rosa)
+-[https://www.youtube.com/watch?v=FdvvIKggzhQ](Reescrevendo Software Crítico em Elixir)
 
 
 ## 🔖 Regras
